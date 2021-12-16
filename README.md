@@ -1,4 +1,4 @@
-# Node.js - Hexagonal Architecture (Ports & Adapters) boilerplate
+# Hexagonal Architecture (Ports & Adapters) boilerplate
 
 # **Hexagonal Node API**
 
