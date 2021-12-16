@@ -1,6 +1,6 @@
 # Node.js - Hexagonal Architecture (Ports & Adapters) boilerplate
 
-# **Clean Node API**
+# **Hexagonal Node API**
 
 [![alt text](./public/hexagonal.png "Hexagonal Architecture")]()
 
