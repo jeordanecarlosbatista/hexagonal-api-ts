@@ -1,9 +1,8 @@
 # Hexagonal Architecture (Ports & Adapters) boilerplate
 
-# **Hexagonal Node API**
-
 [![alt text](./public/hexagonal.png "Hexagonal Architecture")]()
 
+# **Hexagonal Node API**
 
 > Node.js, TypeScript
 
